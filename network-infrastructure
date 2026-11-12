@@ -1,0 +1,9 @@
+Concept: Designing the network infrastructure for Vice City.
+
+What I have built:
+- Designed a network topology using Cisco Packet Tracer.
+- Created separate VLANs for Police, Healthcare, Government, and Public Wi-Fi.
+- Configured IP addressing and subnetting.
+- Configured inter-VLAN routing.
+- Implemente ACLs to restrict communication between departments.
+- Configured DHCP and DNS.
